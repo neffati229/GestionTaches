@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Employee-Task-Management-System
 ### Description
 An Employee Task Management System is a designed to streamline and organize the assignment, tracking, and completion of tasks within an organization. It enables managers to assign tasks to employees, set priorities and deadlines, and monitor progress, while employees can access their task assignments, deadlines, and associated details. Employees can access their assigned tasks and update it's status, fostering productivity and efficient workflow management. Ultimately, an Employee Task Management System helps businesses optimize their workflow, boost efficiency, and achieve their goals with greater ease.
@@ -16,3 +17,6 @@ An Employee Task Management System is a designed to streamline and organize the 
 3. Open link localhost/phpmyadmin
 4. Go to SQL query box and execute the sql queries given sql folder.
 5. Navigate to index.php file and run the file in VSCode.
+=======
+# GestionTaches
+>>>>>>> 0f3f6d66ba6dc149d9feee263f900b83e7cfe5ec
