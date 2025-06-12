@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+Projet Semestriel
 
-### Technology Used
+### Technology 
 * Front End - HTML, CSS, JavaScript
 * Back End - PHP
 * Database - MySql
